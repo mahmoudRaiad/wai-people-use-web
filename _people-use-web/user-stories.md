@@ -96,7 +96,7 @@ For more information on implementing techniques that remove barriers for Alex, s
 
 **Diverse Abilities and Barriers**
 
-- [Repetitive stress injury (Physical disabilities)](/people-use-web/abilities-barriers/#physical)
+- [Repetitive stress injury (faezagarboa@gmail.com)](/people-use-web/abilities-barriers/#physical)
 
 **Tools and Techniques**
 
